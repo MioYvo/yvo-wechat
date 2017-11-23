@@ -23,7 +23,7 @@
     安装依赖包
     
     ```
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
 * 启动
 
